@@ -1,0 +1,8 @@
+com/app/service/impl/ServiceContact.class
+com/app/conn/conexionOracle.class
+com/app/modelo/Contacto.class
+com/app/modelo/AddressContact.class
+com/app/modelo/Base.class
+com/app/service/IServiceAddress.class
+com/app/service/IServicePerson.class
+com/app/service/impl/ServiceAddressContact.class
